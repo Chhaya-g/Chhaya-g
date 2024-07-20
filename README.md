@@ -1,4 +1,5 @@
 ## Hi there 👋
+# I am a Computer Engineering Student who is exploring and Learning stuffs around!!!!
 
 <!--
 **Chhaya-g/Chhaya-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
