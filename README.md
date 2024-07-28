@@ -5,7 +5,7 @@
 ## 🧑‍💻 About Me
 
 I am a final-year computer engineering student passionate about exploring and learning new technologies. My journey has led me to dive deep into various domains, from software development to blockchain and quantum cryptography. I believe in the power of technology to solve real-world problems and am always eager to contribute to innovative projects.
-
+<!--
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
@@ -16,7 +16,7 @@ I am a final-year computer engineering student passionate about exploring and le
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" /></a>
 </div>
 
-<!--
+
 **Chhaya-g/Chhaya-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
