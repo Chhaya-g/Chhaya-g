@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a final-year computer engineering student passionate about exploring and learning new technologies. My journey has led me to dive deep into various domains, from software development to blockchain and quantum cryptography. I believe in the power of technology to solve real-world problems and am always eager to contribute to innovative projects.
+I am a final-year computer engineering student passionate about exploring and learning new technologies. My journey has led me to dive deep into various domains, from software development to blockchain and Neural Networks & Deep Learning. I believe in the power of technology to solve real-world problems and am always eager to contribute to innovative projects.
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
